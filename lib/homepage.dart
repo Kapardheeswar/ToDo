@@ -60,7 +60,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: Colors.yellow.shade600,
       appBar: AppBar(
         backgroundColor: Colors.yellow.shade500,
-        title: Center(child: Text("TO DO",
+        title: Center(child: Text("TO DO APP",
         style: TextStyle(
             color: Colors.black
         ),

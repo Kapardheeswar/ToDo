@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 
 class ToDoTile extends StatelessWidget {
-
   String taskName;
   bool taskCompleted;
   Function(bool?)? onChanged;
